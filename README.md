@@ -63,11 +63,11 @@ changes.
 
 ## Resources
 
-* [Mozilla Developer Network: HTML `<a>` Tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a)
+- [Mozilla Developer Network: HTML `<a>` Tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a)
 
 ## Conclusion
 
 Here we saw how an attribute helps the `a` tag do its job, which is to link to
 another location. Now we can go on to explore some additional HTML tags.
 
-[pview]: http://help.learn.co/the-learn-ide/common-ide-questions/viewing-html-pages-in-the-learn-ide  
+[pview]: http://help.learn.co/the-learn-ide/common-ide-questions/viewing-html-pages-in-the-learn-ide
